@@ -1,0 +1,192 @@
+\t (00:00:42) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Wed Jul 10 23:12:07 2019
+\t (00:00:42)         Host=USER-PC User=user Pid=5944 CPUs=4
+\t (00:00:42) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:42) 
+   (00:00:42) Loading axlcore.cxt 
+\t (00:00:43) Opening existing design...
+\i (00:00:44) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\d (00:00:44) Design opened: C:/Users/user/Desktop/workspace/ex2_rlc/allegro/ex2_rlc.brd
+\i (00:00:45) trapsize 1100
+\i (00:00:45) trapsize 1160
+\i (00:00:45) trapsize 1100
+\i (00:00:45) trapsize 1100
+\i (00:00:46) trapsize 779
+\i (00:00:46) trapsize 1100
+\i (00:00:46) trapsize 1148
+\i (00:00:46) trapsize 803
+\i (00:00:47) add line 
+\i (00:00:47) generaledit 
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -3.564 58.534
+\i (00:00:48) trapsize 401
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in -3.564 58.534
+\i (00:00:48) trapsize 201
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -4.125 59.136
+\i (00:00:49) trapsize 401
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -4.607 59.297
+\i (00:00:49) trapsize 803
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out -5.410 60.743
+\i (00:00:49) trapsize 1605
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in -38.441 156.147
+\i (00:00:49) trapsize 803
+\i (00:00:51) roam start
+\i (00:00:51) roam x -16
+\i (00:00:51) roam x -16
+\i (00:00:51) roam end
+\i (00:00:52) roam start
+\i (00:00:52) roam end
+\i (00:00:53) drag_start grid 32.197 55.649
+\i (00:00:53) drag_stop 33.641 66.726
+\i (00:00:54) pick grid 34.444 42.485
+\t (00:00:54) last pick:  34.417 42.545
+\t (00:00:55) Pick to complete the window.
+\i (00:00:57) prepopup 28.986 63.676
+\i (00:00:58) cancel 
+\i (00:01:01) drag_start grid 27.380 58.539
+\i (00:01:01) drag_stop 28.183 70.740
+\i (00:01:03) roam start
+\i (00:01:03) roam end
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 40.866 75.395
+\i (00:01:05) trapsize 1605
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 130.448 -4.715
+\i (00:01:05) trapsize 1605
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 130.448 -4.715
+\i (00:01:05) trapsize 1605
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 130.448 -4.073
+\i (00:01:05) trapsize 1605
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 37.334 12.945
+\i (00:01:07) trapsize 803
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 23.046 25.628
+\i (00:01:09) trapsize 401
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 26.980 25.147
+\i (00:01:10) trapsize 803
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 28.585 24.183
+\i (00:01:10) trapsize 1605
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 26.096 39.273
+\i (00:01:11) trapsize 803
+\i (00:01:13) roam start
+\i (00:01:14) roam x 16
+\i (00:01:14) roam x 16
+\i (00:01:14) roam y -32
+\i (00:01:14) roam x 32
+\i (00:01:14) roam y -16
+\i (00:01:14) roam y 16
+\i (00:01:14) roam x -16
+\i (00:01:14) roam y 16
+\i (00:01:14) roam x -32
+\i (00:01:14) roam y 16
+\i (00:01:14) roam y 16
+\i (00:01:14) roam x -16
+\i (00:01:14) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam y 16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -32
+\i (00:01:15) roam x -16
+\i (00:01:15) roam x -16
+\i (00:01:15) roam end
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 15.179 -4.727
+\i (00:01:15) trapsize 401
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 15.179 -4.486
+\i (00:01:15) trapsize 201
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 15.420 -3.041
+\i (00:01:16) trapsize 401
+\i (00:01:17) drag_start grid 15.420 -3.443
+\i (00:01:17) drag_stop 10.282 -5.610
+\i (00:01:17) roam start
+\i (00:01:17) roam x -48
+\i (00:01:17) roam y 16
+\i (00:01:18) roam x -16
+\i (00:01:18) roam x -16
+\i (00:01:18) roam x 32
+\i (00:01:18) roam x 16
+\i (00:01:18) roam y -16
+\i (00:01:18) roam x 32
+\i (00:01:18) roam y -16
+\i (00:01:18) roam x 16
+\i (00:01:18) roam x 32
+\i (00:01:18) roam y -32
+\i (00:01:18) roam x 16
+\i (00:01:18) roam x 16
+\i (00:01:18) roam y -16
+\i (00:01:18) roam x 16
+\i (00:01:18) roam y -16
+\i (00:01:18) roam x 16
+\i (00:01:18) roam y -16
+\i (00:01:19) roam x 16
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x 16
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x 16
+\i (00:01:19) roam y -32
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x 16
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x 16
+\i (00:01:19) roam x -16
+\i (00:01:19) roam x -16
+\i (00:01:19) roam y 16
+\i (00:01:19) roam x -16
+\i (00:01:19) roam end
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 29.628 9.881
+\i (00:01:20) trapsize 803
+\i (00:01:23) pick grid 14.537 85.978
+\t (00:01:23) last pick:  14.478 85.979
+\i (00:01:31) done 
+\i (00:01:31) place manual 
+\i (00:01:32) FORM plc_manual placement_list 
+\i (00:01:32) FORM plc_manual categories Components by refdes 
+\i (00:01:32) trapsize 803
+\i (00:01:40) setwindow form.plc_manual
+\i (00:01:40) FORM plc_manual cancel  
+\i (00:01:40) setwindow pcb
+\i (00:01:40) generaledit 
+\i (00:01:49) new 
+\e (00:01:49) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:01:55) fillin yes 
+\i (00:02:31) newdrawfillin "1_2.brd" "Board"
+\t (00:02:31)     Journal end - Wed Jul 10 23:13:56 2019
